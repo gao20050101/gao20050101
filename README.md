@@ -1,6 +1,6 @@
 ## Skill
   <img src="https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico">
-  <img src="https://openrocket.info/img/OpenRocket_icon.png">
+  <img src="https://openrocket.info/img/OpenRocket_icon.png" height="64">
 
 ## Languages 
 <div align="center">
