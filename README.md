@@ -1,3 +1,6 @@
+## Skill
+  <img src="https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico">
+
 ## Languages 
 <div align="center">
   <img src="https://www.r-project.org/Rlogo.png" height="60" alt="python logo"  />
