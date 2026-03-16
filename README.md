@@ -1,17 +1,15 @@
 ## Languages 
 <div align="center">
   <img src="https://www.r-project.org/Rlogo.png" height="60" alt="python logo"  />
-  <img width="12" />
+  <img width="12">
   <img src="https://isocpp.org/assets/images/cpp_logo.png" height="60" alt="cplusplus logo"  />
 </div>
-## Connect with Me
 
+## Connect with Me
 <div align="center">
-  <a href="https://discord.com/users/878830839822176287"><img src="https://skillicons.dev/icons?i=discord" height="40" alt="X" /></a>
-  <img width="12" />
-  <a href="https://t.me/yuusukealmal"><img src="https://cdn.simpleicons.org/telegram/26A5E4" height="40" alt="Telegram" /></a>
-  <br/ >
-  <img height="12" />
-  <a href="https://discord.com/users/878830839822176287"><img src="https://lanyard.cnrad.dev/api/878830839822176287?&bg=141321&borderRadius=20px&hideTimestamp=true" alt="Discord Status" /></a>
-  <inframe>https://steamcommunity.com/id/ajax2005/</inframe>
+  <a href="https://discord.com/users/732412797790715998"><img src="https://cdn.prod.website-files.com/5f8dd67f8fdd6f51f0b50904/69131b4cd3bf47ab6bebaef9_65bf17408a3c0a90c528ffdb3b1305ed_Logo-black-bg.svg" height="40" alt="X" /></a>
+  <img width="12">
+  <br>
+  <img height="12">
+  <a href="https://steamcommunity.com/id/ajax2005"><img src="https://community.fastly.steamstatic.com/public/shared/images/header/logo_steam.svg"height="40" alt="X" /></a>
 </div>
