@@ -8,7 +8,7 @@
 
 ## Skill
 <div align="center">
-  <a helf="arduino.cc"><img src="https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico"></a>
+  <a helf="https://www.arduino.cc/"><img src="https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico"></a>
   <img src="https://openrocket.info/img/OpenRocket_icon.png" height="64">
 </div>
 
