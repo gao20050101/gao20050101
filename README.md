@@ -4,7 +4,7 @@
 
 ## Skill
 <div align="center">
-  <a href="www.arduino.cc"><img src="https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico"></a>
+  <a href="https://www.arduino.cc"><img src="https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico"></a>
   <a href="openrocket.info"><img src="https://openrocket.info/img/OpenRocket_icon.png" height="64"></a>
 </div>
 
