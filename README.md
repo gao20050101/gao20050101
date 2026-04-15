@@ -11,7 +11,7 @@
 ## Skill
 <div align="center">
   <a href="https://arduino.cc"><img src="https://cdn.arduino.cc/header-footer/prod/assets/favicon-arduino/favicon.ico"></a>
-  <a href="https://openrocket.info"><img src="https://openrocket.info/favicon.ico"height="64"></a>
+  <a href="https://openrocket.info"><img src="https://openrocket.info/favicon.ico"></a>
 </div>
 
 ## Languages 
