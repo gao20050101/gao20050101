@@ -28,5 +28,5 @@
 
 ## Something interesting
 <div align="center">
-  <a href="https://gao20050101.github.io/3d-graph-viewer/index.html">
+  <a href="https://gao20050101.github.io/3d-graph-viewer/index.html"><img src="https://www.ams.org/images/Logo-Favicon.png"></a>
 </div>
